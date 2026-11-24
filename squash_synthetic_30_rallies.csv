@@ -1,0 +1,360 @@
+Data type,Match ID,Rally ID,Shot number,Hitter,Hitter position X (A-H),Hitter position Y (1-8),Opponent position X (A-H),Opponent position Y (1-8),Ball position X (A-H),Ball position Y (1-8),Shot,Hand,Direction,Boast wall count,Volley?,Target / landing X (A-H),Target / landing Y (1-8),Ball speed,Shot result,Point-ending shot?,Point-ending event,Rally winner,Point-ending shot number,Notes / confidence,Direct winning shot?
+Synthetic,SIM-01,R01,1,You,E,3,F,6,E,3,Drop,Forehand,Cross-court,,No,B,3,Slow,Returned,No,,Opponent,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R01,2,Opponent,C,3,D,4,B,4,Drive,Backhand,Straight,,No,D,7,Slow,Weak return,No,,Opponent,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R01,3,You,C,6,E,5,D,6,Boast,Backhand,Straight,3.0,No,C,4,Medium,Returned,No,,Opponent,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R01,4,Opponent,D,3,E,5,E,2,Drive,Forehand,Cross-court,,No,H,7,Fast,Returned,No,,Opponent,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R01,5,You,H,7,D,4,G,7,Volley kill,Forehand,Straight,,Yes,G,1,Fast,Returned,No,,Opponent,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R01,6,Opponent,H,1,D,5,H,2,Drop,Backhand,Straight,,No,H,2,Fast,Returned,No,,Opponent,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R01,7,You,G,1,D,5,G,2,Volley boast,Forehand,Straight,2.0,Yes,G,6,Medium,Returned,No,,Opponent,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R01,8,Opponent,G,5,D,4,F,4,Defensive drive,Forehand,Straight,,No,H,7,Slow,Returned,No,,Opponent,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R01,9,You,G,8,D,4,F,8,Boast,Forehand,Straight,2.0,No,G,3,Medium,Weak return,No,,Opponent,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R01,10,Opponent,F,2,E,4,E,1,Kill,Backhand,Straight,,No,F,2,Fast,Returned,No,,Opponent,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R01,11,You,G,3,D,4,F,3,Volley kill,Forehand,Straight,,Yes,G,2,Fast,Returned,No,,Opponent,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R01,12,Opponent,F,3,E,5,G,3,Straight nick,Forehand,Straight,,No,F,1,Fast,Winner,Yes,Winner,Opponent,12,"Invented example; approximate positions, not observed match data",Yes
+Synthetic,SIM-01,R02,1,You,C,3,C,6,B,4,Boast,Backhand,Straight,2.0,No,C,6,Fast,Returned,No,,Opponent,14,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R02,2,Opponent,D,7,D,5,E,7,Drive,Backhand,Straight,,No,E,7,Slow,Good pressure,No,,Opponent,14,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R02,3,You,E,6,D,5,D,7,Volley drive,Backhand,Cross-court,,Yes,A,8,Fast,Returned,No,,Opponent,14,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R02,4,Opponent,A,8,E,5,B,7,Drive,Backhand,Cross-court,,No,H,8,Slow,Returned,No,,Opponent,14,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R02,5,You,G,7,E,5,G,8,Volley drop,Backhand,Cross-court,,Yes,H,1,Medium,Returned,No,,Opponent,14,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R02,6,Opponent,H,1,E,5,H,1,Drop,Backhand,Straight,,No,H,2,Fast,Returned,No,,Opponent,14,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R02,7,You,H,2,E,5,G,3,Drive,Backhand,Cross-court,,No,C,6,Slow,Returned,No,,Opponent,14,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R02,8,Opponent,D,6,E,4,D,5,Drive,Backhand,Cross-court,,No,A,6,Slow,Good pressure,No,,Opponent,14,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R02,9,You,A,6,D,5,A,5,Drive,Backhand,Cross-court,,No,G,6,Fast,Returned,No,,Opponent,14,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R02,10,Opponent,G,5,E,5,F,6,Straight nick,Backhand,Straight,,No,F,1,Fast,Returned,No,,Opponent,14,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R02,11,You,E,2,D,4,F,1,Drive,Backhand,Straight,,No,E,7,Slow,Good pressure,No,,Opponent,14,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R02,12,Opponent,E,6,D,4,E,6,Drop,Backhand,Straight,,No,E,1,Fast,Returned,No,,Opponent,14,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R02,13,You,F,1,D,5,G,2,Boast,Backhand,Straight,2.0,No,G,5,Slow,Good pressure,No,,Opponent,14,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R02,14,Opponent,G,5,D,5,H,4,Straight nick,Backhand,Straight,,No,G,2,Medium,Forced error by opponent,Yes,Forced error,Opponent,14,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R03,1,You,D,4,F,6,C,4,Volley kill,Backhand,Cross-court,,Yes,C,2,Medium,Returned,No,,Opponent,10,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R03,2,Opponent,C,1,D,5,D,2,Volley kill,Backhand,Cross-court,,Yes,G,1,Fast,Returned,No,,Opponent,10,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R03,3,You,G,1,E,4,G,2,Volley drive,Backhand,Cross-court,,Yes,A,7,Slow,Weak return,No,,Opponent,10,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R03,4,Opponent,A,8,E,5,B,7,Kill,Forehand,Straight,,No,A,3,Medium,Returned,No,,Opponent,10,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R03,5,You,B,4,D,4,B,5,Boast,Forehand,Straight,2.0,No,C,3,Slow,Returned,No,,Opponent,10,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R03,6,Opponent,B,4,D,5,A,4,Volley drive,Backhand,Cross-court,,Yes,H,8,Medium,Returned,No,,Opponent,10,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R03,7,You,H,8,E,5,H,8,Kill,Forehand,Cross-court,,No,C,3,Fast,Returned,No,,Opponent,10,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R03,8,Opponent,D,4,D,4,C,5,Drive,Forehand,Cross-court,,No,H,6,Slow,Returned,No,,Opponent,10,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R03,9,You,G,7,E,5,G,8,Volley kill,Backhand,Cross-court,,Yes,H,1,Fast,Weak return,No,,Opponent,10,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R03,10,Opponent,H,2,D,5,G,3,Straight nick,Forehand,Straight,,No,G,3,Medium,Winner,Yes,Winner,Opponent,10,"Invented example; approximate positions, not observed match data",Yes
+Synthetic,SIM-01,R04,1,You,C,3,D,7,B,4,Volley kill,Forehand,Straight,,Yes,D,3,Medium,Good pressure,No,,Opponent,10,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R04,2,Opponent,C,2,D,4,C,1,Boast,Backhand,Straight,2.0,No,B,6,Fast,Weak return,No,,Opponent,10,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R04,3,You,B,7,E,5,A,6,Boast,Forehand,Straight,3.0,No,B,4,Slow,Good pressure,No,,Opponent,10,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R04,4,Opponent,C,5,D,4,D,6,Boast,Forehand,Straight,3.0,No,C,4,Fast,Returned,No,,Opponent,10,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R04,5,You,C,5,D,4,D,5,Drive,Backhand,Straight,,No,B,6,Fast,Returned,No,,Opponent,10,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R04,6,Opponent,A,7,E,4,A,6,Drop,Forehand,Cross-court,,No,H,1,Slow,Returned,No,,Opponent,10,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R04,7,You,H,1,E,5,H,2,Boast,Forehand,Straight,2.0,No,G,5,Slow,Good pressure,No,,Opponent,10,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R04,8,Opponent,H,4,D,4,G,3,Boast,Forehand,Straight,2.0,No,H,3,Medium,Returned,No,,Opponent,10,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R04,9,You,H,2,E,5,H,2,Lob,Backhand,Cross-court,,No,A,7,Medium,Returned,No,,Opponent,10,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R04,10,Opponent,B,8,D,5,A,8,Straight nick,Forehand,Straight,,No,A,3,Fast,Winner,Yes,Winner,Opponent,10,"Invented example; approximate positions, not observed match data",Yes
+Synthetic,SIM-01,R05,1,You,F,3,E,7,F,3,Boast,Forehand,Straight,3.0,No,F,6,Fast,Weak return,No,,You,11,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R05,2,Opponent,G,7,D,5,H,7,Boast,Backhand,Straight,2.0,No,G,6,Slow,Returned,No,,You,11,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R05,3,You,H,5,E,5,H,5,Cross-court nick,Backhand,Cross-court,,No,A,3,Slow,Good pressure,No,,You,11,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R05,4,Opponent,A,4,E,4,A,4,Drive,Backhand,Cross-court,,No,G,8,Fast,Returned,No,,You,11,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R05,5,You,H,7,E,4,H,6,Kill,Backhand,Cross-court,,No,B,1,Fast,Returned,No,,You,11,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R05,6,Opponent,C,1,D,5,B,2,Volley drive,Backhand,Cross-court,,Yes,G,7,Medium,Returned,No,,You,11,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R05,7,You,H,7,E,4,G,6,Boast,Backhand,Straight,3.0,No,G,3,Slow,Good pressure,No,,You,11,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R05,8,Opponent,G,3,D,4,G,3,Drop,Backhand,Straight,,No,G,3,Fast,Returned,No,,You,11,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R05,9,You,H,3,E,4,H,2,Volley drive,Backhand,Cross-court,,Yes,A,8,Fast,Returned,No,,You,11,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R05,10,Opponent,B,8,D,5,C,8,Boast,Backhand,Straight,2.0,No,B,3,Slow,Returned,No,,You,11,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R05,11,You,C,4,D,4,D,3,Trickle boast,Backhand,Straight,2.0,No,C,1,Slow,Forced error by opponent,Yes,Forced error,You,11,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R06,1,Opponent,D,6,D,4,C,7,Volley drop,Forehand,Straight,,Yes,D,2,Slow,Weak return,No,,You,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R06,2,You,C,2,D,5,B,1,Defensive drive,Forehand,Straight,,No,C,6,Medium,Good pressure,No,,You,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R06,3,Opponent,D,7,D,4,C,6,Kill,Backhand,Cross-court,,No,F,1,Slow,Returned,No,,You,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R06,4,You,E,2,D,4,F,2,Drive,Forehand,Straight,,No,D,8,Slow,Returned,No,,You,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R06,5,Opponent,E,7,E,5,D,6,Drive,Backhand,Cross-court,,No,A,6,Slow,Good pressure,No,,You,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R06,6,You,A,5,D,4,A,5,Volley drop,Forehand,Straight,,Yes,A,2,Slow,Returned,No,,You,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R06,7,Opponent,B,3,D,4,A,4,Drive,Forehand,Straight,,No,C,8,Fast,Returned,No,,You,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R06,8,You,C,8,E,4,C,8,Trickle boast,Forehand,Straight,2.0,No,C,3,Medium,Returned,No,,You,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R06,9,Opponent,C,4,D,4,B,4,Boast,Backhand,Straight,2.0,No,C,5,Medium,Returned,No,,You,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R06,10,You,B,4,D,4,A,5,Drop,Backhand,Cross-court,,No,F,3,Medium,Returned,No,,You,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R06,11,Opponent,E,2,D,4,E,2,Lob,Forehand,Straight,,No,D,7,Slow,Returned,No,,You,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R06,12,You,C,8,D,5,D,8,Kill,Forehand,Straight,,No,C,2,Fast,Winner,Yes,Winner,You,12,"Invented example; approximate positions, not observed match data",Yes
+Synthetic,SIM-01,R07,1,You,D,3,D,6,C,4,Volley boast,Forehand,Straight,2.0,Yes,E,5,Fast,Returned,No,,Opponent,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R07,2,Opponent,D,4,E,4,D,3,Kill,Forehand,Straight,,No,D,2,Medium,Returned,No,,Opponent,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R07,3,You,C,3,E,4,C,4,Volley drive,Backhand,Cross-court,,Yes,F,6,Medium,Returned,No,,Opponent,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R07,4,Opponent,E,5,E,5,D,5,Defensive drive,Forehand,Straight,,No,E,7,Slow,Returned,No,,Opponent,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R07,5,You,F,6,E,5,E,5,Drive,Backhand,Straight,,No,F,6,Fast,Returned,No,,Opponent,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R07,6,Opponent,E,6,D,4,D,6,Drive,Backhand,Straight,,No,D,8,Medium,Returned,No,,Opponent,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R07,7,You,E,7,E,4,E,8,Drive,Forehand,Cross-court,,No,A,7,Fast,Returned,No,,Opponent,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R07,8,Opponent,A,8,E,4,B,7,Volley drive,Forehand,Straight,,Yes,A,7,Medium,Returned,No,,Opponent,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R07,9,You,B,7,E,5,A,8,Defensive lob,Backhand,Cross-court,,No,F,6,Fast,Returned,No,,Opponent,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R07,10,Opponent,E,6,D,4,F,6,Drive,Forehand,Cross-court,,No,F,6,Fast,Good pressure,No,,Opponent,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R07,11,You,G,7,E,5,F,8,Drop,Backhand,Straight,,No,G,3,Medium,Returned,No,,Opponent,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R07,12,Opponent,H,3,E,4,G,4,Straight nick,Forehand,Straight,,No,H,1,Slow,Winner,Yes,Winner,Opponent,12,"Invented example; approximate positions, not observed match data",Yes
+Synthetic,SIM-01,R08,1,Opponent,E,7,C,3,D,7,Defensive lob,Backhand,Cross-court,,No,H,6,Slow,Good pressure,No,,Opponent,13,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R08,2,You,G,7,E,4,F,8,Drive,Backhand,Straight,,No,G,7,Medium,Returned,No,,Opponent,13,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R08,3,Opponent,G,6,D,5,H,5,Drive,Backhand,Cross-court,,No,F,7,Slow,Good pressure,No,,Opponent,13,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R08,4,You,F,7,D,5,F,8,Drive,Backhand,Straight,,No,E,6,Fast,Returned,No,,Opponent,13,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R08,5,Opponent,E,7,D,4,F,7,Boast,Backhand,Straight,2.0,No,E,3,Medium,Good pressure,No,,Opponent,13,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R08,6,You,F,4,D,5,G,4,Defensive drive,Forehand,Straight,,No,F,6,Slow,Good pressure,No,,Opponent,13,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R08,7,Opponent,F,6,D,4,E,5,Kill,Forehand,Straight,,No,F,3,Fast,Returned,No,,Opponent,13,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R08,8,You,G,4,D,5,G,5,Volley drop,Forehand,Straight,,Yes,H,2,Fast,Returned,No,,Opponent,13,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R08,9,Opponent,H,1,E,4,H,2,Drive,Forehand,Straight,,No,G,7,Slow,Returned,No,,Opponent,13,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R08,10,You,F,6,E,4,F,6,Drive,Forehand,Cross-court,,No,C,8,Medium,Returned,No,,Opponent,13,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R08,11,Opponent,B,8,D,4,C,8,Cross-court nick,Backhand,Cross-court,,No,C,2,Slow,Returned,No,,Opponent,13,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R08,12,You,B,3,D,5,A,2,Volley drive,Backhand,Cross-court,,Yes,H,7,Fast,Returned,No,,Opponent,13,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R08,13,Opponent,G,6,E,5,F,7,Volley kill,Forehand,Straight,,Yes,G,2,Slow,Forced error by opponent,Yes,Forced error,Opponent,13,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R09,1,Opponent,F,6,C,3,E,6,Kill,Backhand,Straight,,No,G,1,Fast,Returned,No,,You,10,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R09,2,You,F,1,D,5,G,2,Reverse boast,Forehand,Cross-court,3.0,No,H,4,Fast,Weak return,No,,You,10,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R09,3,Opponent,H,4,D,5,G,4,Kill,Backhand,Straight,,No,G,1,Medium,Returned,No,,You,10,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R09,4,You,F,1,E,5,F,2,Drop,Forehand,Straight,,No,F,1,Medium,Good pressure,No,,You,10,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R09,5,Opponent,E,1,E,4,D,1,Drive,Forehand,Cross-court,,No,F,6,Fast,Returned,No,,You,10,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R09,6,You,G,6,D,5,G,5,Boast,Forehand,Straight,3.0,No,H,5,Slow,Returned,No,,You,10,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R09,7,Opponent,G,5,E,4,F,6,Cross-court nick,Backhand,Cross-court,,No,B,2,Slow,Good pressure,No,,You,10,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R09,8,You,A,3,E,4,A,3,Drive,Forehand,Straight,,No,B,8,Medium,Weak return,No,,You,10,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R09,9,Opponent,C,8,E,5,B,7,Volley drop,Backhand,Cross-court,,Yes,F,3,Medium,Returned,No,,You,10,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R09,10,You,F,3,E,4,E,4,Boast,Forehand,Straight,2.0,No,F,3,Medium,Winner,Yes,Winner,You,10,"Invented example; approximate positions, not observed match data",Yes
+Synthetic,SIM-01,R10,1,Opponent,D,7,E,3,C,6,Boast,Backhand,Straight,2.0,No,E,3,Medium,Returned,No,,You,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R10,2,You,D,2,E,5,E,3,Boast,Backhand,Straight,3.0,No,E,6,Slow,Returned,No,,You,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R10,3,Opponent,F,7,D,5,F,7,Drive,Forehand,Straight,,No,E,6,Medium,Good pressure,No,,You,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R10,4,You,E,6,D,4,D,5,Drive,Forehand,Straight,,No,D,6,Slow,Returned,No,,You,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R10,5,Opponent,C,6,D,5,D,7,Volley drop,Backhand,Cross-court,,Yes,B,3,Medium,Returned,No,,You,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R10,6,You,A,3,E,5,A,2,Kill,Forehand,Straight,,No,A,3,Fast,Returned,No,,You,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R10,7,Opponent,B,2,E,4,A,2,Drop,Forehand,Straight,,No,B,3,Fast,Weak return,No,,You,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R10,8,You,C,3,D,4,B,2,Drive,Backhand,Straight,,No,D,6,Fast,Returned,No,,You,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R10,9,Opponent,D,6,E,4,D,6,Straight nick,Forehand,Straight,,No,D,2,Slow,Returned,No,,You,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R10,10,You,E,1,E,5,D,1,Kill,Backhand,Cross-court,,No,C,1,Slow,Returned,No,,You,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R10,11,Opponent,B,1,D,4,B,1,Kill,Backhand,Straight,,No,C,1,Fast,Returned,No,,You,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R10,12,You,C,1,D,4,B,1,Kill,Backhand,Cross-court,,No,C,3,Fast,Winner,Yes,Winner,You,12,"Invented example; approximate positions, not observed match data",Yes
+Synthetic,SIM-01,R11,1,You,C,3,D,7,B,3,Drive,Forehand,Cross-court,,No,G,8,Fast,Returned,No,,Opponent,10,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R11,2,Opponent,F,7,D,5,F,6,Kill,Forehand,Straight,,No,G,3,Slow,Returned,No,,Opponent,10,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R11,3,You,G,3,E,5,F,4,Boast,Forehand,Straight,3.0,No,F,3,Slow,Returned,No,,Opponent,10,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R11,4,Opponent,G,4,E,4,G,4,Lob,Backhand,Cross-court,,No,C,8,Fast,Returned,No,,Opponent,10,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R11,5,You,B,7,E,4,A,6,Lob,Backhand,Cross-court,,No,G,6,Slow,Returned,No,,Opponent,10,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R11,6,Opponent,H,5,E,5,H,4,Boast,Backhand,Straight,2.0,No,H,3,Slow,Returned,No,,Opponent,10,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R11,7,You,G,2,D,4,F,2,Trickle boast,Backhand,Straight,2.0,No,G,1,Fast,Returned,No,,Opponent,10,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R11,8,Opponent,F,2,D,5,E,1,Volley drop,Backhand,Cross-court,,Yes,C,2,Fast,Good pressure,No,,Opponent,10,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R11,9,You,D,2,D,4,D,1,Drive,Backhand,Cross-court,,No,A,7,Medium,Returned,No,,Opponent,10,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R11,10,Opponent,B,8,E,5,B,8,Cross-court nick,Forehand,Cross-court,,No,F,1,Fast,Forced error by opponent,Yes,Forced error,Opponent,10,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R12,1,You,F,3,E,7,F,2,Drop,Backhand,Cross-court,,No,F,2,Fast,Returned,No,,Opponent,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R12,2,Opponent,F,1,E,4,E,2,Volley drop,Forehand,Straight,,Yes,E,3,Slow,Good pressure,No,,Opponent,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R12,3,You,F,3,D,5,F,2,Kill,Backhand,Straight,,No,F,3,Slow,Returned,No,,Opponent,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R12,4,Opponent,E,2,D,4,E,1,Drive,Forehand,Straight,,No,E,6,Medium,Returned,No,,Opponent,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R12,5,You,D,7,E,5,E,6,Drive,Forehand,Cross-court,,No,G,6,Fast,Returned,No,,Opponent,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R12,6,Opponent,F,7,D,4,F,7,Kill,Forehand,Cross-court,,No,C,3,Slow,Good pressure,No,,Opponent,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R12,7,You,D,3,E,5,D,4,Drive,Backhand,Cross-court,,No,H,7,Slow,Returned,No,,Opponent,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R12,8,Opponent,G,8,D,4,G,8,Drive,Backhand,Straight,,No,G,7,Fast,Returned,No,,Opponent,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R12,9,You,G,8,E,5,H,7,Kill,Forehand,Straight,,No,H,2,Fast,Returned,No,,Opponent,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R12,10,Opponent,H,1,E,5,H,1,Drive,Backhand,Cross-court,,No,A,7,Fast,Returned,No,,Opponent,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R12,11,You,A,8,E,5,A,8,Drop,Backhand,Cross-court,,No,G,3,Medium,Weak return,No,,Opponent,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R12,12,Opponent,H,3,E,5,H,3,Straight nick,Backhand,Straight,,No,H,3,Medium,Forced error by opponent,Yes,Forced error,Opponent,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R13,1,Opponent,F,6,C,3,F,7,Drive,Forehand,Straight,,No,F,6,Medium,Returned,No,,Opponent,13,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R13,2,You,E,7,D,5,F,6,Boast,Backhand,Straight,2.0,No,D,4,Slow,Weak return,No,,Opponent,13,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R13,3,Opponent,E,5,E,5,F,4,Defensive lob,Backhand,Cross-court,,No,F,7,Slow,Returned,No,,Opponent,13,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R13,4,You,E,6,D,5,E,6,Drop,Forehand,Cross-court,,No,H,3,Fast,Good pressure,No,,Opponent,13,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R13,5,Opponent,H,3,D,5,H,2,Drive,Forehand,Cross-court,,No,F,7,Fast,Returned,No,,Opponent,13,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R13,6,You,E,6,D,4,E,7,Drive,Backhand,Cross-court,,No,F,7,Fast,Returned,No,,Opponent,13,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R13,7,Opponent,F,7,D,4,G,7,Volley drive,Backhand,Cross-court,,Yes,A,7,Slow,Good pressure,No,,Opponent,13,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R13,8,You,A,6,E,5,A,6,Volley kill,Forehand,Straight,,Yes,A,2,Medium,Good pressure,No,,Opponent,13,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R13,9,Opponent,A,3,D,5,B,4,Drive,Backhand,Cross-court,,No,A,6,Slow,Weak return,No,,Opponent,13,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R13,10,You,A,7,D,5,B,8,Boast,Backhand,Straight,3.0,No,A,5,Slow,Returned,No,,Opponent,13,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R13,11,Opponent,B,6,D,4,A,7,Boast,Forehand,Straight,2.0,No,B,5,Medium,Returned,No,,Opponent,13,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R13,12,You,C,4,D,5,C,5,Drive,Backhand,Cross-court,,No,C,7,Fast,Returned,No,,Opponent,13,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R13,13,Opponent,B,8,D,5,B,8,Volley drop,Backhand,Cross-court,,Yes,C,1,Fast,Winner,Yes,Winner,Opponent,13,"Invented example; approximate positions, not observed match data",Yes
+Synthetic,SIM-01,R14,1,You,C,3,D,6,B,4,Kill,Forehand,Straight,,No,C,3,Medium,Returned,No,,You,15,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R14,2,Opponent,D,4,D,4,C,4,Kill,Backhand,Straight,,No,D,1,Fast,Weak return,No,,You,15,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R14,3,You,C,2,E,5,C,1,Kill,Forehand,Cross-court,,No,A,1,Slow,Returned,No,,You,15,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R14,4,Opponent,A,2,D,5,A,1,Drive,Forehand,Straight,,No,B,6,Fast,Returned,No,,You,15,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R14,5,You,C,5,E,5,C,6,Lob,Forehand,Straight,,No,D,6,Medium,Weak return,No,,You,15,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R14,6,Opponent,C,7,D,4,D,7,Kill,Backhand,Cross-court,,No,A,3,Slow,Returned,No,,You,15,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R14,7,You,A,3,D,4,A,4,Cross-court nick,Forehand,Cross-court,,No,G,2,Slow,Returned,No,,You,15,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R14,8,Opponent,H,3,E,5,H,2,Kill,Backhand,Straight,,No,H,1,Fast,Returned,No,,You,15,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R14,9,You,H,2,E,4,H,3,Volley drive,Forehand,Straight,,Yes,H,8,Medium,Returned,No,,You,15,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R14,10,Opponent,H,8,E,4,H,7,Trickle boast,Forehand,Straight,2.0,No,H,3,Fast,Returned,No,,You,15,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R14,11,You,H,4,D,4,H,4,Drive,Backhand,Cross-court,,No,C,6,Slow,Returned,No,,You,15,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R14,12,Opponent,C,7,E,5,C,6,Drive,Backhand,Straight,,No,D,6,Fast,Returned,No,,You,15,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R14,13,You,D,7,E,4,C,6,Drive,Forehand,Cross-court,,No,B,6,Fast,Returned,No,,You,15,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R14,14,Opponent,B,5,D,5,A,4,Boast,Forehand,Straight,2.0,No,B,6,Medium,Returned,No,,You,15,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R14,15,You,C,7,D,4,C,7,Kill,Backhand,Cross-court,,No,A,1,Medium,Winner,Yes,Winner,You,15,"Invented example; approximate positions, not observed match data",Yes
+Synthetic,SIM-01,R15,1,You,E,3,D,6,F,3,Drop,Forehand,Straight,,No,F,2,Fast,Returned,No,,Opponent,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R15,2,Opponent,F,2,D,4,E,2,Cross-court nick,Forehand,Cross-court,,No,H,1,Medium,Good pressure,No,,Opponent,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R15,3,You,H,2,D,5,H,3,Drive,Forehand,Cross-court,,No,A,6,Slow,Returned,No,,Opponent,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R15,4,Opponent,B,6,E,5,B,5,Drive,Forehand,Cross-court,,No,G,7,Fast,Returned,No,,Opponent,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R15,5,You,F,6,E,5,E,7,Drive,Forehand,Straight,,No,F,7,Fast,Returned,No,,Opponent,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R15,6,Opponent,F,6,E,5,F,7,Drive,Backhand,Straight,,No,G,6,Slow,Returned,No,,Opponent,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R15,7,You,G,5,D,4,G,6,Drop,Forehand,Cross-court,,No,F,1,Fast,Good pressure,No,,Opponent,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R15,8,Opponent,E,1,D,5,D,1,Boast,Forehand,Straight,2.0,No,D,3,Fast,Returned,No,,Opponent,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R15,9,You,D,4,D,4,D,3,Kill,Backhand,Cross-court,,No,G,2,Medium,Returned,No,,Opponent,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R15,10,Opponent,F,2,E,4,F,3,Cross-court nick,Forehand,Cross-court,,No,F,2,Fast,Returned,No,,Opponent,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R15,11,You,E,2,D,5,F,1,Kill,Forehand,Cross-court,,No,A,3,Medium,Returned,No,,Opponent,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R15,12,Opponent,A,3,E,5,B,3,Drop,Forehand,Straight,,No,A,2,Slow,Winner,Yes,Winner,Opponent,12,"Invented example; approximate positions, not observed match data",Yes
+Synthetic,SIM-01,R16,1,You,D,3,F,6,E,4,Drive,Forehand,Straight,,No,C,8,Fast,Returned,No,,Opponent,10,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R16,2,Opponent,B,8,E,4,B,7,Drive,Backhand,Cross-court,,No,G,8,Medium,Weak return,No,,Opponent,10,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R16,3,You,G,8,E,4,G,8,Boast,Forehand,Straight,2.0,No,F,4,Fast,Weak return,No,,Opponent,10,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R16,4,Opponent,F,5,D,5,F,4,Drive,Forehand,Cross-court,,No,G,6,Fast,Returned,No,,Opponent,10,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R16,5,You,G,7,D,5,G,6,Volley drive,Backhand,Cross-court,,Yes,A,6,Slow,Good pressure,No,,Opponent,10,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R16,6,Opponent,B,7,E,5,C,7,Drop,Backhand,Straight,,No,B,1,Fast,Returned,No,,Opponent,10,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R16,7,You,B,1,E,4,B,1,Kill,Forehand,Cross-court,,No,C,3,Slow,Good pressure,No,,Opponent,10,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R16,8,Opponent,C,4,E,5,B,5,Kill,Forehand,Straight,,No,C,2,Fast,Returned,No,,Opponent,10,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R16,9,You,C,2,E,4,D,2,Kill,Forehand,Straight,,No,C,3,Slow,Good pressure,No,,Opponent,10,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R16,10,Opponent,B,3,E,5,B,3,Volley kill,Forehand,Straight,,Yes,B,1,Medium,Forced error by opponent,Yes,Forced error,Opponent,10,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R17,1,Opponent,E,7,D,4,D,7,Trickle boast,Backhand,Straight,2.0,No,E,3,Fast,Returned,No,,Opponent,13,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R17,2,You,F,4,D,4,E,5,Boast,Backhand,Straight,3.0,No,F,4,Medium,Returned,No,,Opponent,13,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R17,3,Opponent,G,4,E,5,G,4,Volley drive,Forehand,Straight,,Yes,G,8,Medium,Returned,No,,Opponent,13,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R17,4,You,F,7,E,5,E,6,Drive,Forehand,Cross-court,,No,G,7,Fast,Returned,No,,Opponent,13,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R17,5,Opponent,G,8,D,4,H,8,Drive,Backhand,Straight,,No,G,7,Medium,Returned,No,,Opponent,13,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R17,6,You,F,8,D,4,G,8,Drive,Forehand,Cross-court,,No,A,7,Medium,Weak return,No,,Opponent,13,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R17,7,Opponent,A,6,E,5,A,6,Lob,Backhand,Cross-court,,No,B,7,Fast,Returned,No,,Opponent,13,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R17,8,You,B,6,D,4,B,7,Drive,Backhand,Cross-court,,No,C,8,Fast,Returned,No,,Opponent,13,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R17,9,Opponent,B,7,E,4,C,6,Volley kill,Backhand,Cross-court,,Yes,A,2,Medium,Good pressure,No,,Opponent,13,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R17,10,You,A,3,D,4,A,2,Volley boast,Forehand,Straight,2.0,Yes,A,6,Medium,Returned,No,,Opponent,13,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R17,11,Opponent,B,6,E,5,C,5,Drive,Backhand,Straight,,No,A,8,Slow,Good pressure,No,,Opponent,13,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R17,12,You,A,7,E,5,A,8,Boast,Backhand,Straight,2.0,No,B,3,Medium,Good pressure,No,,Opponent,13,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R17,13,Opponent,B,4,E,4,C,5,Straight nick,Forehand,Straight,,No,B,1,Slow,Forced error by opponent,Yes,Forced error,Opponent,13,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R18,1,Opponent,D,7,D,4,E,6,Trickle boast,Forehand,Straight,2.0,No,D,2,Slow,Returned,No,,Opponent,13,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R18,2,You,C,2,D,5,D,2,Drive,Forehand,Cross-court,,No,C,8,Fast,Weak return,No,,Opponent,13,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R18,3,Opponent,C,8,E,4,D,8,Reverse boast,Forehand,Cross-court,3.0,No,A,3,Medium,Returned,No,,Opponent,13,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R18,4,You,B,4,D,4,A,5,Boast,Forehand,Straight,2.0,No,A,3,Medium,Good pressure,No,,Opponent,13,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R18,5,Opponent,B,3,D,5,B,4,Boast,Backhand,Straight,3.0,No,C,4,Slow,Returned,No,,Opponent,13,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R18,6,You,B,3,D,4,A,4,Kill,Forehand,Cross-court,,No,C,3,Medium,Returned,No,,Opponent,13,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R18,7,Opponent,B,3,D,5,C,4,Cross-court nick,Backhand,Cross-court,,No,G,2,Medium,Returned,No,,Opponent,13,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R18,8,You,G,1,E,5,G,2,Drive,Backhand,Cross-court,,No,A,7,Medium,Good pressure,No,,Opponent,13,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R18,9,Opponent,A,6,E,5,B,6,Reverse boast,Forehand,Cross-court,3.0,No,A,6,Medium,Returned,No,,Opponent,13,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R18,10,You,A,6,E,5,B,6,Drive,Forehand,Cross-court,,No,C,6,Slow,Weak return,No,,Opponent,13,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R18,11,Opponent,B,6,D,4,B,5,Drop,Forehand,Cross-court,,No,A,1,Medium,Returned,No,,Opponent,13,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R18,12,You,B,1,D,4,B,2,Drop,Backhand,Straight,,No,B,1,Medium,Returned,No,,Opponent,13,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R18,13,Opponent,A,1,E,4,A,1,Kill,Forehand,Straight,,No,A,2,Medium,Winner,Yes,Winner,Opponent,13,"Invented example; approximate positions, not observed match data",Yes
+Synthetic,SIM-01,R19,1,You,F,3,E,7,G,2,Drop,Forehand,Straight,,No,E,2,Fast,Returned,No,,Opponent,14,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R19,2,Opponent,D,3,E,4,C,2,Kill,Forehand,Straight,,No,D,2,Slow,Returned,No,,Opponent,14,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R19,3,You,E,2,E,4,D,3,Defensive drive,Forehand,Straight,,No,E,7,Fast,Returned,No,,Opponent,14,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R19,4,Opponent,F,8,D,4,G,8,Boast,Backhand,Straight,2.0,No,E,3,Slow,Returned,No,,Opponent,14,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R19,5,You,F,4,E,4,E,4,Drop,Backhand,Cross-court,,No,F,3,Fast,Good pressure,No,,Opponent,14,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R19,6,Opponent,G,3,E,4,F,2,Boast,Backhand,Straight,2.0,No,G,4,Slow,Good pressure,No,,Opponent,14,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R19,7,You,F,4,D,4,E,5,Boast,Forehand,Straight,3.0,No,E,6,Medium,Returned,No,,Opponent,14,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R19,8,Opponent,D,6,E,5,C,5,Volley drive,Forehand,Straight,,Yes,E,8,Slow,Good pressure,No,,Opponent,14,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R19,9,You,E,7,D,4,F,8,Trickle boast,Backhand,Straight,2.0,No,F,2,Slow,Good pressure,No,,Opponent,14,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R19,10,Opponent,G,3,E,4,H,2,Drop,Forehand,Straight,,No,G,3,Slow,Returned,No,,Opponent,14,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R19,11,You,H,2,D,5,H,1,Boast,Forehand,Straight,2.0,No,H,3,Slow,Good pressure,No,,Opponent,14,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R19,12,Opponent,G,2,D,5,H,2,Kill,Backhand,Cross-court,,No,A,2,Medium,Returned,No,,Opponent,14,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R19,13,You,B,1,E,4,C,1,Drive,Backhand,Straight,,No,B,8,Slow,Returned,No,,Opponent,14,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R19,14,Opponent,B,7,E,5,A,8,Kill,Forehand,Straight,,No,A,1,Slow,Winner,Yes,Winner,Opponent,14,"Invented example; approximate positions, not observed match data",Yes
+Synthetic,SIM-01,R20,1,Opponent,E,6,D,3,D,7,Volley drop,Forehand,Straight,,Yes,D,1,Medium,Returned,No,,You,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R20,2,You,E,1,D,4,D,1,Drive,Backhand,Cross-court,,No,G,8,Fast,Returned,No,,You,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R20,3,Opponent,H,7,D,5,H,6,Boast,Backhand,Straight,2.0,No,H,3,Fast,Returned,No,,You,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R20,4,You,H,3,D,5,G,2,Drive,Forehand,Cross-court,,No,C,6,Medium,Weak return,No,,You,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R20,5,Opponent,D,6,E,4,D,6,Volley drive,Backhand,Cross-court,,Yes,F,7,Medium,Good pressure,No,,You,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R20,6,You,F,8,E,4,E,8,Trickle boast,Forehand,Straight,2.0,No,G,1,Medium,Returned,No,,You,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R20,7,Opponent,F,1,D,4,E,1,Volley kill,Backhand,Cross-court,,Yes,B,2,Medium,Returned,No,,You,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R20,8,You,A,1,D,4,B,1,Drive,Backhand,Straight,,No,A,8,Slow,Returned,No,,You,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R20,9,Opponent,A,7,E,4,B,7,Boast,Backhand,Straight,3.0,No,A,4,Medium,Returned,No,,You,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R20,10,You,A,5,D,5,B,4,Reverse boast,Backhand,Cross-court,3.0,No,G,4,Medium,Returned,No,,You,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R20,11,Opponent,G,4,D,5,F,3,Reverse boast,Forehand,Cross-court,3.0,No,F,6,Fast,Weak return,No,,You,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R20,12,You,F,6,E,4,F,5,Volley drop,Backhand,Cross-court,,Yes,H,1,Medium,Winner,Yes,Winner,You,12,"Invented example; approximate positions, not observed match data",Yes
+Synthetic,SIM-01,R21,1,Opponent,D,6,C,3,E,5,Volley kill,Forehand,Straight,,Yes,C,3,Slow,Returned,No,,You,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R21,2,You,B,2,E,4,A,2,Volley drive,Forehand,Straight,,Yes,B,6,Medium,Good pressure,No,,You,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R21,3,Opponent,A,5,E,4,A,6,Drop,Backhand,Straight,,No,A,3,Slow,Weak return,No,,You,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R21,4,You,B,3,E,4,A,4,Drop,Forehand,Cross-court,,No,A,3,Fast,Returned,No,,You,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R21,5,Opponent,A,4,D,5,A,3,Kill,Backhand,Straight,,No,A,2,Medium,Good pressure,No,,You,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R21,6,You,A,1,D,5,A,1,Volley drive,Forehand,Straight,,Yes,A,8,Medium,Good pressure,No,,You,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R21,7,Opponent,B,8,D,4,B,8,Drive,Backhand,Cross-court,,No,H,7,Medium,Good pressure,No,,You,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R21,8,You,G,8,D,4,G,8,Reverse boast,Backhand,Cross-court,3.0,No,C,4,Fast,Good pressure,No,,You,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R21,9,Opponent,D,5,D,4,D,6,Kill,Forehand,Cross-court,,No,C,3,Fast,Returned,No,,You,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R21,10,You,B,2,D,4,A,2,Drive,Backhand,Cross-court,,No,C,6,Medium,Returned,No,,You,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R21,11,Opponent,C,5,E,5,C,5,Drive,Backhand,Cross-court,,No,F,8,Slow,Weak return,No,,You,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R21,12,You,E,8,D,4,D,8,Straight nick,Backhand,Straight,,No,D,1,Medium,Winner,Yes,Winner,You,12,"Invented example; approximate positions, not observed match data",Yes
+Synthetic,SIM-01,R22,1,Opponent,C,6,F,3,D,7,Kill,Backhand,Cross-court,,No,G,3,Fast,Returned,No,,Opponent,13,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R22,2,You,F,4,E,5,F,3,Kill,Backhand,Cross-court,,No,A,2,Slow,Returned,No,,Opponent,13,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R22,3,Opponent,A,3,E,5,A,3,Drive,Forehand,Cross-court,,No,C,7,Fast,Weak return,No,,Opponent,13,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R22,4,You,D,7,D,4,C,7,Trickle boast,Forehand,Straight,2.0,No,D,3,Fast,Returned,No,,Opponent,13,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R22,5,Opponent,D,3,D,5,E,3,Volley drive,Backhand,Cross-court,,Yes,A,6,Fast,Good pressure,No,,Opponent,13,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R22,6,You,B,7,E,5,B,6,Drive,Forehand,Cross-court,,No,H,8,Medium,Good pressure,No,,Opponent,13,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R22,7,Opponent,G,8,D,4,F,8,Drive,Forehand,Cross-court,,No,G,6,Medium,Returned,No,,Opponent,13,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R22,8,You,H,6,E,5,G,7,Kill,Backhand,Straight,,No,H,3,Slow,Returned,No,,Opponent,13,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R22,9,Opponent,H,2,D,4,H,1,Drive,Backhand,Straight,,No,H,6,Slow,Returned,No,,Opponent,13,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R22,10,You,H,6,D,4,H,6,Boast,Backhand,Straight,3.0,No,H,6,Medium,Returned,No,,Opponent,13,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R22,11,Opponent,H,6,D,4,H,5,Drop,Forehand,Cross-court,,No,F,1,Fast,Weak return,No,,Opponent,13,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R22,12,You,F,1,E,4,E,2,Kill,Backhand,Straight,,No,F,1,Slow,Returned,No,,Opponent,13,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R22,13,Opponent,E,1,D,4,E,2,Kill,Backhand,Cross-court,,No,G,3,Fast,Winner,Yes,Winner,Opponent,13,"Invented example; approximate positions, not observed match data",Yes
+Synthetic,SIM-01,R23,1,Opponent,F,6,D,3,G,6,Volley drive,Backhand,Cross-court,,Yes,G,7,Fast,Good pressure,No,,You,14,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R23,2,You,G,8,D,4,F,8,Drop,Forehand,Straight,,No,G,1,Fast,Weak return,No,,You,14,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R23,3,Opponent,F,1,E,4,E,1,Drive,Forehand,Cross-court,,No,H,8,Slow,Returned,No,,You,14,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R23,4,You,H,7,E,5,H,6,Drive,Backhand,Cross-court,,No,G,8,Medium,Returned,No,,You,14,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R23,5,Opponent,H,8,E,4,H,8,Drive,Backhand,Straight,,No,H,8,Slow,Returned,No,,You,14,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R23,6,You,H,8,D,5,H,8,Drop,Backhand,Cross-court,,No,H,2,Slow,Weak return,No,,You,14,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R23,7,Opponent,H,3,D,4,G,2,Boast,Backhand,Straight,2.0,No,H,6,Medium,Returned,No,,You,14,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R23,8,You,G,6,E,4,G,6,Drive,Backhand,Cross-court,,No,C,8,Medium,Returned,No,,You,14,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R23,9,Opponent,D,8,E,5,C,7,Reverse boast,Backhand,Cross-court,3.0,No,A,3,Slow,Returned,No,,You,14,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R23,10,You,B,4,E,4,C,5,Drive,Forehand,Straight,,No,A,8,Fast,Weak return,No,,You,14,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R23,11,Opponent,A,8,E,5,A,7,Drive,Backhand,Straight,,No,A,8,Fast,Good pressure,No,,You,14,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R23,12,You,A,7,E,4,A,7,Drop,Backhand,Cross-court,,No,G,3,Medium,Weak return,No,,You,14,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R23,13,Opponent,F,2,D,4,E,2,Boast,Backhand,Straight,2.0,No,F,5,Slow,Returned,No,,You,14,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R23,14,You,E,4,D,5,D,5,Straight nick,Backhand,Straight,,No,E,2,Fast,Forced error by opponent,Yes,Forced error,You,14,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R24,1,Opponent,D,6,D,4,D,7,Boast,Backhand,Straight,2.0,No,E,4,Slow,Returned,No,,You,10,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R24,2,You,F,3,D,4,F,2,Drive,Backhand,Cross-court,,No,G,7,Slow,Returned,No,,You,10,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R24,3,Opponent,H,8,D,4,G,8,Drop,Forehand,Straight,,No,H,2,Medium,Returned,No,,You,10,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R24,4,You,H,1,D,5,G,2,Defensive drive,Forehand,Straight,,No,G,7,Medium,Good pressure,No,,You,10,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R24,5,Opponent,F,7,D,5,E,6,Drive,Backhand,Cross-court,,No,F,6,Medium,Returned,No,,You,10,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R24,6,You,E,6,E,4,F,5,Drive,Backhand,Cross-court,,No,G,6,Fast,Weak return,No,,You,10,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R24,7,Opponent,H,6,E,4,H,7,Drive,Forehand,Straight,,No,H,7,Medium,Returned,No,,You,10,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R24,8,You,H,8,D,5,G,7,Defensive drive,Forehand,Straight,,No,G,8,Fast,Returned,No,,You,10,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R24,9,Opponent,F,8,D,5,F,7,Cross-court nick,Forehand,Cross-court,,No,H,1,Slow,Returned,No,,You,10,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R24,10,You,H,2,D,4,G,1,Kill,Backhand,Cross-court,,No,B,3,Slow,Winner,Yes,Winner,You,10,"Invented example; approximate positions, not observed match data",Yes
+Synthetic,SIM-01,R25,1,Opponent,E,7,D,3,E,7,Boast,Backhand,Straight,2.0,No,E,5,Fast,Returned,No,,You,14,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R25,2,You,F,6,D,5,F,6,Boast,Forehand,Straight,3.0,No,G,3,Fast,Returned,No,,You,14,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R25,3,Opponent,G,2,E,4,H,2,Boast,Backhand,Straight,2.0,No,H,3,Fast,Returned,No,,You,14,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R25,4,You,G,3,D,4,H,2,Drive,Backhand,Cross-court,,No,F,6,Slow,Returned,No,,You,14,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R25,5,Opponent,F,5,D,5,E,6,Trickle boast,Backhand,Straight,2.0,No,G,3,Slow,Returned,No,,You,14,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R25,6,You,F,4,E,4,F,5,Drive,Backhand,Straight,,No,E,8,Medium,Returned,No,,You,14,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R25,7,Opponent,F,8,D,5,F,8,Volley boast,Forehand,Straight,2.0,Yes,F,5,Slow,Returned,No,,You,14,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R25,8,You,E,6,E,4,E,7,Volley kill,Backhand,Cross-court,,Yes,B,1,Medium,Returned,No,,You,14,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R25,9,Opponent,C,2,E,4,C,3,Drop,Backhand,Straight,,No,D,1,Slow,Returned,No,,You,14,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R25,10,You,C,1,E,4,C,1,Trickle boast,Backhand,Straight,2.0,No,B,3,Fast,Returned,No,,You,14,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R25,11,Opponent,C,2,E,4,B,1,Kill,Backhand,Cross-court,,No,C,2,Medium,Returned,No,,You,14,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R25,12,You,C,2,E,4,D,2,Cross-court nick,Backhand,Cross-court,,No,A,3,Slow,Returned,No,,You,14,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R25,13,Opponent,A,3,E,5,A,2,Volley drop,Backhand,Cross-court,,Yes,F,1,Medium,Returned,No,,You,14,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R25,14,You,E,2,E,5,E,2,Cross-court nick,Forehand,Cross-court,,No,H,1,Fast,Winner,Yes,Winner,You,14,"Invented example; approximate positions, not observed match data",Yes
+Synthetic,SIM-01,R26,1,Opponent,E,6,E,4,D,7,Drive,Backhand,Straight,,No,E,7,Fast,Returned,No,,You,10,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R26,2,You,F,6,D,4,F,6,Defensive drive,Forehand,Straight,,No,F,8,Fast,Weak return,No,,You,10,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R26,3,Opponent,G,8,D,4,H,8,Drive,Forehand,Cross-court,,No,H,7,Fast,Returned,No,,You,10,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R26,4,You,H,6,E,4,H,7,Drive,Backhand,Straight,,No,H,6,Slow,Returned,No,,You,10,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R26,5,Opponent,H,7,D,4,H,8,Drive,Forehand,Cross-court,,No,H,6,Fast,Good pressure,No,,You,10,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R26,6,You,H,7,D,4,H,7,Boast,Backhand,Straight,2.0,No,H,6,Medium,Returned,No,,You,10,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R26,7,Opponent,H,5,D,5,H,4,Volley drive,Backhand,Cross-court,,Yes,G,7,Medium,Returned,No,,You,10,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R26,8,You,G,7,D,4,G,7,Drive,Forehand,Cross-court,,No,G,8,Medium,Good pressure,No,,You,10,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R26,9,Opponent,H,8,E,4,H,7,Drive,Backhand,Straight,,No,H,6,Fast,Returned,No,,You,10,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R26,10,You,H,6,D,5,G,5,Volley drop,Backhand,Cross-court,,Yes,G,2,Fast,Winner,Yes,Winner,You,10,"Invented example; approximate positions, not observed match data",Yes
+Synthetic,SIM-01,R27,1,Opponent,F,6,E,4,F,7,Drive,Backhand,Straight,,No,E,7,Slow,Returned,No,,You,10,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R27,2,You,D,6,E,4,D,7,Volley drive,Backhand,Cross-court,,Yes,A,7,Fast,Returned,No,,You,10,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R27,3,Opponent,B,6,D,4,A,7,Boast,Backhand,Straight,2.0,No,B,5,Medium,Returned,No,,You,10,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R27,4,You,C,4,D,5,B,5,Drive,Backhand,Cross-court,,No,C,7,Slow,Returned,No,,You,10,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R27,5,Opponent,B,7,E,5,A,7,Trickle boast,Forehand,Straight,2.0,No,B,1,Medium,Returned,No,,You,10,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R27,6,You,C,1,E,5,D,1,Kill,Backhand,Straight,,No,B,1,Slow,Returned,No,,You,10,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R27,7,Opponent,B,1,E,4,C,1,Drive,Forehand,Cross-court,,No,A,8,Slow,Returned,No,,You,10,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R27,8,You,A,8,E,5,A,8,Drive,Backhand,Cross-court,,No,H,7,Medium,Returned,No,,You,10,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R27,9,Opponent,G,8,E,4,H,8,Drive,Backhand,Straight,,No,H,6,Medium,Returned,No,,You,10,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R27,10,You,H,5,D,5,G,6,Drop,Forehand,Straight,,No,H,1,Medium,Forced error by opponent,Yes,Forced error,You,10,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R28,1,You,C,3,C,6,C,3,Drive,Forehand,Straight,,No,B,8,Fast,Returned,No,,Opponent,10,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R28,2,Opponent,A,7,D,5,B,7,Drive,Backhand,Straight,,No,A,6,Slow,Returned,No,,Opponent,10,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R28,3,You,B,6,E,4,B,5,Boast,Forehand,Straight,3.0,No,A,3,Fast,Returned,No,,Opponent,10,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R28,4,Opponent,A,2,D,5,B,1,Kill,Backhand,Straight,,No,A,3,Fast,Returned,No,,Opponent,10,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R28,5,You,A,2,E,4,A,1,Kill,Forehand,Straight,,No,A,1,Medium,Weak return,No,,Opponent,10,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R28,6,Opponent,B,1,D,4,C,2,Volley drive,Backhand,Cross-court,,Yes,A,8,Fast,Returned,No,,Opponent,10,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R28,7,You,A,8,E,4,B,7,Volley drive,Backhand,Cross-court,,Yes,H,6,Medium,Returned,No,,Opponent,10,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R28,8,Opponent,H,6,E,5,H,7,Drive,Forehand,Cross-court,,No,H,6,Fast,Returned,No,,Opponent,10,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R28,9,You,H,6,D,4,G,6,Drop,Forehand,Straight,,No,H,2,Fast,Returned,No,,Opponent,10,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R28,10,Opponent,H,1,D,5,H,1,Straight nick,Backhand,Straight,,No,G,1,Medium,Winner,Yes,Winner,Opponent,10,"Invented example; approximate positions, not observed match data",Yes
+Synthetic,SIM-01,R29,1,You,D,3,E,7,C,2,Lob,Backhand,Cross-court,,No,A,8,Fast,Returned,No,,Opponent,14,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R29,2,Opponent,B,7,D,4,B,6,Lob,Backhand,Cross-court,,No,A,7,Medium,Returned,No,,Opponent,14,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R29,3,You,A,6,E,5,B,7,Cross-court nick,Forehand,Cross-court,,No,H,1,Medium,Returned,No,,Opponent,14,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R29,4,Opponent,G,2,E,5,F,1,Drive,Backhand,Cross-court,,No,G,6,Medium,Returned,No,,Opponent,14,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R29,5,You,F,6,D,4,F,6,Drive,Backhand,Cross-court,,No,H,6,Fast,Returned,No,,Opponent,14,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R29,6,Opponent,H,5,D,5,H,5,Straight nick,Backhand,Straight,,No,H,2,Slow,Returned,No,,Opponent,14,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R29,7,You,G,2,D,5,H,2,Drop,Backhand,Straight,,No,G,1,Fast,Returned,No,,Opponent,14,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R29,8,Opponent,H,2,E,5,H,2,Kill,Backhand,Straight,,No,H,1,Slow,Returned,No,,Opponent,14,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R29,9,You,H,1,E,5,H,1,Cross-court nick,Forehand,Cross-court,,No,F,2,Slow,Good pressure,No,,Opponent,14,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R29,10,Opponent,G,3,D,5,H,3,Drop,Backhand,Straight,,No,H,2,Fast,Returned,No,,Opponent,14,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R29,11,You,G,3,D,4,H,4,Drive,Forehand,Straight,,No,F,6,Medium,Returned,No,,Opponent,14,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R29,12,Opponent,G,6,D,5,H,7,Trickle boast,Backhand,Straight,2.0,No,F,3,Medium,Good pressure,No,,Opponent,14,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R29,13,You,E,2,E,5,E,2,Drive,Forehand,Straight,,No,E,8,Medium,Returned,No,,Opponent,14,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R29,14,Opponent,F,7,D,5,G,6,Kill,Backhand,Cross-court,,No,C,2,Fast,Forced error by opponent,Yes,Forced error,Opponent,14,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R30,1,You,F,3,F,6,F,2,Drop,Forehand,Straight,,No,F,3,Medium,Good pressure,No,,Opponent,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R30,2,Opponent,E,3,D,4,D,4,Drive,Backhand,Straight,,No,F,8,Medium,Returned,No,,Opponent,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R30,3,You,F,8,E,5,F,8,Drive,Forehand,Cross-court,,No,F,7,Slow,Good pressure,No,,Opponent,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R30,4,Opponent,E,7,E,4,D,6,Drive,Forehand,Straight,,No,D,6,Slow,Weak return,No,,Opponent,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R30,5,You,D,5,E,4,E,5,Volley drive,Backhand,Cross-court,,Yes,H,8,Slow,Returned,No,,Opponent,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R30,6,Opponent,H,8,E,5,H,7,Kill,Forehand,Straight,,No,H,2,Slow,Returned,No,,Opponent,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R30,7,You,G,2,E,4,H,1,Volley kill,Backhand,Cross-court,,Yes,G,1,Medium,Returned,No,,Opponent,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R30,8,Opponent,H,1,D,5,H,1,Drive,Backhand,Straight,,No,H,8,Medium,Returned,No,,Opponent,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R30,9,You,H,7,D,4,G,6,Trickle boast,Forehand,Straight,2.0,No,H,3,Fast,Returned,No,,Opponent,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R30,10,Opponent,H,3,D,4,H,4,Volley boast,Backhand,Straight,3.0,Yes,H,4,Fast,Good pressure,No,,Opponent,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R30,11,You,H,4,D,4,H,3,Cross-court nick,Forehand,Cross-court,,No,B,1,Slow,Returned,No,,Opponent,12,"Invented example; approximate positions, not observed match data",No
+Synthetic,SIM-01,R30,12,Opponent,C,1,D,5,D,2,Cross-court nick,Backhand,Cross-court,,No,F,3,Slow,Forced error by opponent,Yes,Forced error,Opponent,12,"Invented example; approximate positions, not observed match data",No
